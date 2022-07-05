@@ -2,6 +2,270 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed19047e-fd4c-4d43-9734-7a90d2f2ed52" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.candy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/avatar-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/avatar-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/avatar5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/avatar_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/avatar_defaultx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bc-header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg-header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/boxed-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logoaplikasi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/soal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/ttd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/ttdbos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/tutwuri.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/fotosiswa/5853bc61ec0c270fc2f62de5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/fotosiswa/6567aa9ac01753fec83212a335dee857.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-087-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-088-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-089-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-090-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-091-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-092-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-093-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-094-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-095-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-096-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-097-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-098-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-099-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-100-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-101-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-102-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-103-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-104-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-105-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-106-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-107-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-108-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-109-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-110-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-111-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-112-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-113-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-114-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-115-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-116-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-117-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-118-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-119-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-120-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-121-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-122-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-123-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-124-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/12-248-125-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810061.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810062.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810063.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810064.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810065.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810066.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810067.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810068.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810070.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810072.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810073.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810074.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810075.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810076.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810077.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810078.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810079.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810080.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810081.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810082.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810085.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810086.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810090.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810091.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810093.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/171810094.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/qrcode/qrcodeip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/cache/frame_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/panel/phpqrcode/temp/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/colorpicker/img/alpha-horizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/colorpicker/img/alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/colorpicker/img/hue-horizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/colorpicker/img/hue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/colorpicker/img/saturation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/AutoFill/images/filler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/ColReorder/images/insert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/Scroller/images/loading-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/collection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/collection_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/copy_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/csv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/csv_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/pdf_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/print_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/xls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/extensions/TableTools/images/xls_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/images/sort_asc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datatables/images/sort_desc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datetimepicker/screen/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datetimepicker/screen/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datetimepicker/screen/3.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datetimepicker/screen/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datetimepicker/screen/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datetimepicker/screen/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/datetimepicker/screen/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/flat@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/flat/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/futurico/futurico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/futurico/futurico@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/line/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/line/line@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/minimal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/minimal@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/minimal/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/polaris/polaris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/polaris/polaris@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/square@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/iCheck/square/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/ionslider/img/sprite-skin-flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/ionslider/img/sprite-skin-nice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/patreon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/swal2-error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/swal2-info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/swal2-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/swal2-question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/swal2-success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/swal2-warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/vs_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sweetalert2/assets/vs_icon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/tinymce/plugins/formula/img/formula-editor-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/tinymce/plugins/formula/img/formula.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/tinymce/plugins/help/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/tinymce/plugins/uploadimage/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/resources/images/PHPPowerPointLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/resources/doc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/resources/ppt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/resources/xls.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cbtsmatel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cbtsmatel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,26 +301,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/laragon/www/cbtsmatel",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/laragon/www/cbtsma&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
-      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
-      <method v="2" />
-    </configuration>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +322,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657015045035</updated>
-      <workItem from="1657015049611" duration="558000" />
+      <workItem from="1657015049611" duration="697000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1657015115506</created>
